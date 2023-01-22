@@ -37,3 +37,7 @@
 10 - use o comando:
 
 	ls
+
+## Imagem demonstrativa:
+
+![birthdays](https://user-images.githubusercontent.com/85769101/213922299-70900792-fff1-44ee-86e3-8c342718d828.png)
