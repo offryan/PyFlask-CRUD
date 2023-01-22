@@ -16,7 +16,7 @@
   
 5 - use o comando:
 
-	ls
+	ls lab9
   
 6 - use o comando:
 
