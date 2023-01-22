@@ -1,19 +1,39 @@
-# flask-cs50
+## Birthdays - CC50 - Utilizando Flask e BD
 
-## Faça passo a passo: 
+1 - Abra o git-bash na pasta do projeto desejado;
 
--  wget https://cdn.cs50.net/2020/fall/labs/9/lab9.zip
+2 - use o comando:
 
--  unzip lab9.zip 
+ 	wget https://cdn.cs50.net/2020/fall/labs/9/lab9.zip
 
--  rm lab9.zip
+3 - use o comando:
+ 
+	unzip lab9.zip
 
--  ls
+4 - use o comando:
+
+	rm lab9.zip
   
--  pip install Flask
+5 - use o comando:
+
+	ls
   
--  pip3 install cs50
+6 - use o comando:
+
+	pip install Flask
   
--  cd lab9
+7 - use o comando:
+
+	pip3 install cs50
   
--  ls
+7 - use o comando:
+
+	pip3 install cs50
+  
+7 - use o comando:
+
+	cd lab9
+  
+10 - use o comando:
+
+	ls
