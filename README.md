@@ -28,10 +28,6 @@
   
 7 - use o comando:
 
-	pip3 install cs50
-  
-7 - use o comando:
-
 	cd lab9
   
 10 - use o comando:
