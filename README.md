@@ -1,4 +1,6 @@
-## Birthdays - CC50 - Utilizando Flask e BD
+## Birthdays - Utilizando Flask, Utilização do banco de dados SQlite e PHPmyadmin para o CRUD
+
+0 - Esse passo a passo é para quem quiser criar do zero! Não necessita clonar o repositório!
 
 1 - Abra o git-bash na pasta do projeto desejado;
 
